@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/SoundBoard/static/css/main.5f361e03.chunk.css",
+    "main.js": "/SoundBoard/static/js/main.6faad094.chunk.js",
+    "main.js.map": "/SoundBoard/static/js/main.6faad094.chunk.js.map",
+    "runtime-main.js": "/SoundBoard/static/js/runtime-main.b61953d5.js",
+    "runtime-main.js.map": "/SoundBoard/static/js/runtime-main.b61953d5.js.map",
+    "static/js/2.48dc1793.chunk.js": "/SoundBoard/static/js/2.48dc1793.chunk.js",
+    "static/js/2.48dc1793.chunk.js.map": "/SoundBoard/static/js/2.48dc1793.chunk.js.map",
+    "index.html": "/SoundBoard/index.html",
+    "precache-manifest.6a7edbb3c21e430cb1b4ef86cfd3d442.js": "/SoundBoard/precache-manifest.6a7edbb3c21e430cb1b4ef86cfd3d442.js",
+    "service-worker.js": "/SoundBoard/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/SoundBoard/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.48dc1793.chunk.js.LICENSE.txt": "/SoundBoard/static/js/2.48dc1793.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/SoundBoard/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b61953d5.js",
+    "static/js/2.48dc1793.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.6faad094.chunk.js"
+  ]
+}
