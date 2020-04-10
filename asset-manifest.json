@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/SoundBoard/static/css/main.0cc25485.chunk.css",
-    "main.js": "/SoundBoard/static/js/main.e2f8c943.chunk.js",
-    "main.js.map": "/SoundBoard/static/js/main.e2f8c943.chunk.js.map",
+    "main.css": "/SoundBoard/static/css/main.a5016df4.chunk.css",
+    "main.js": "/SoundBoard/static/js/main.7bc4105d.chunk.js",
+    "main.js.map": "/SoundBoard/static/js/main.7bc4105d.chunk.js.map",
     "runtime-main.js": "/SoundBoard/static/js/runtime-main.b61953d5.js",
     "runtime-main.js.map": "/SoundBoard/static/js/runtime-main.b61953d5.js.map",
-    "static/js/2.5be0972a.chunk.js": "/SoundBoard/static/js/2.5be0972a.chunk.js",
-    "static/js/2.5be0972a.chunk.js.map": "/SoundBoard/static/js/2.5be0972a.chunk.js.map",
+    "static/js/2.0fb658dc.chunk.js": "/SoundBoard/static/js/2.0fb658dc.chunk.js",
+    "static/js/2.0fb658dc.chunk.js.map": "/SoundBoard/static/js/2.0fb658dc.chunk.js.map",
     "index.html": "/SoundBoard/index.html",
-    "precache-manifest.1a4ee803159047dea2c35e77d33bd57b.js": "/SoundBoard/precache-manifest.1a4ee803159047dea2c35e77d33bd57b.js",
+    "precache-manifest.e39ed96007d67eea319e4acf68267503.js": "/SoundBoard/precache-manifest.e39ed96007d67eea319e4acf68267503.js",
     "service-worker.js": "/SoundBoard/service-worker.js",
-    "static/css/main.0cc25485.chunk.css.map": "/SoundBoard/static/css/main.0cc25485.chunk.css.map",
-    "static/js/2.5be0972a.chunk.js.LICENSE.txt": "/SoundBoard/static/js/2.5be0972a.chunk.js.LICENSE.txt",
+    "static/css/main.a5016df4.chunk.css.map": "/SoundBoard/static/css/main.a5016df4.chunk.css.map",
+    "static/js/2.0fb658dc.chunk.js.LICENSE.txt": "/SoundBoard/static/js/2.0fb658dc.chunk.js.LICENSE.txt",
     "static/media/App.css": "/SoundBoard/static/media/background_photo_desktop.37be7357.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.b61953d5.js",
-    "static/js/2.5be0972a.chunk.js",
-    "static/css/main.0cc25485.chunk.css",
-    "static/js/main.e2f8c943.chunk.js"
+    "static/js/2.0fb658dc.chunk.js",
+    "static/css/main.a5016df4.chunk.css",
+    "static/js/main.7bc4105d.chunk.js"
   ]
 }
